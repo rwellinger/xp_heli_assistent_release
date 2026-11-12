@@ -1,0 +1,211 @@
+Welly's Heli Assistent — End User License Agreement
+
+Copyright (c) 2026 Robert Wellinger. All rights reserved.
+
+--------------------------------------------------------------------------------
+1. AGREEMENT
+--------------------------------------------------------------------------------
+
+This agreement is between you (the "Licensee") and Robert Wellinger (the
+"Author") and covers the software "Welly's Heli Assistent"
+(package name: xp_heli_assistent), including its plugin binaries, the
+aircraft profiles and tuning files supplied with it, and its documentation
+(together, the "Software").
+
+By installing or using the Software you accept this agreement. If you do not
+accept it, do not install or use the Software and delete any copy you hold.
+
+--------------------------------------------------------------------------------
+2. WHAT YOU MAY DO
+--------------------------------------------------------------------------------
+
+The Author grants you a personal, non-exclusive, non-transferable licence to:
+
+  a) install and use the Software on any computer you own or control, for as many
+     installations as you personally use;
+
+  b) make backup copies for your own use;
+
+  c) publish screenshots, video recordings, livestreams, reviews and tutorials
+     showing the Software in use, including on commercial platforms and including
+     for your own profit, without asking the Author.
+
+     This is stated explicitly so nobody has to wonder. The only limit is that
+     such material must not itself distribute the Software or any part of it —
+     showing it is free, handing it out is not.
+
+--------------------------------------------------------------------------------
+3. YOUR OWN PROFILES AND TUNING FILES
+--------------------------------------------------------------------------------
+
+Aircraft profiles (`profiles/*.profile`) and tuning files (`basis/*.cfg`) are
+plain text. A profile you write yourself — the dataref bindings you verified and
+the constants you measured on your own helicopter — is your work, not the
+Author's.
+
+You may use, modify, publish and sell such files freely. This agreement places no
+restriction on them whatsoever, and the fact that a file was written for the
+Software, follows its format or names it does not make it part of the Software.
+
+This applies to files you have authored. It does not extend to the profiles and
+tuning files supplied with the Software, which are covered by section 4.
+
+--------------------------------------------------------------------------------
+4. WHAT YOU MAY NOT DO
+--------------------------------------------------------------------------------
+
+Except as permitted in sections 2 and 3, you may not:
+
+  a) distribute, publish, sell, rent, lend, sublicense or otherwise make the
+     Software available to any third party, whether modified or not, whether for
+     payment or free of charge. "The Software" here means the plugin binaries,
+     the documentation, and the profiles and tuning files supplied with it — not
+     files you wrote yourself under section 3;
+
+  b) remove or alter any copyright notice, licence text or attribution contained
+     in the Software;
+
+  c) use the Software to provide paid flight instruction, paid simulator sessions
+     or any other service sold to third parties, without the Author's prior
+     written permission. Using it in the course of your own work, or showing it to
+     others, is not such a service.
+
+Nothing in this section restricts rights you hold under applicable mandatory law,
+including any right to decompile the Software for interoperability purposes where
+that right exists and cannot be waived by contract.
+
+--------------------------------------------------------------------------------
+5. INTELLECTUAL PROPERTY
+--------------------------------------------------------------------------------
+
+The Software is licensed, not sold. Ownership of the Software and of all
+intellectual property rights in it remains with the Author, or with the
+respective rights holders of third-party components.
+
+This agreement transfers no ownership and no copyright. Files you author yourself
+under section 3 remain yours, and nothing here grants the Author rights in them.
+
+--------------------------------------------------------------------------------
+6. NOT AN AVIATION TRAINING DEVICE
+--------------------------------------------------------------------------------
+
+The Software is entertainment software for a desktop flight simulator. It is not
+a certified or approved aviation training device of any kind, and it is not a
+substitute for instruction by a qualified flight instructor.
+
+You may of course use the Software however you find it useful, including
+alongside real flight training — that is not something this agreement tries to
+forbid, and could not be enforced if it did. But you do so entirely at your own
+risk: the Author makes no representation that anything practised with the
+Software produces any skill applicable to an actual aircraft, and accepts no
+responsibility for any use of it in connection with real-world flying.
+
+--------------------------------------------------------------------------------
+7. NO WARRANTY
+--------------------------------------------------------------------------------
+
+The Software is provided "as is", without warranty of any kind, express or
+implied, including the warranties of merchantability and fitness for a particular
+purpose. In particular, the Author does not warrant that:
+
+  a) the Software is free of errors, or that any error will be corrected;
+
+  b) the Software is or remains compatible with any version of X-Plane, with any
+     add-on aircraft, or with any other plugin;
+
+  c) the measured values supplied with the Software remain valid. They describe
+     the behaviour of specific add-on aircraft in specific simulator versions,
+     under conditions recorded at the time of measurement, and an update to any of
+     those can invalidate them.
+
+Statutory warranty rights that cannot be excluded remain unaffected.
+
+--------------------------------------------------------------------------------
+8. LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+
+To the maximum extent permitted by applicable law, the Author shall not be liable
+for indirect or consequential damages, loss of data, business interruption, lost
+profit, or damage arising from the interaction of the Software with third-party
+software.
+
+Liability for damage caused intentionally or through gross negligence, liability
+for personal injury, and any other liability that cannot be excluded under
+applicable mandatory law, remain unaffected.
+
+--------------------------------------------------------------------------------
+9. THIRD-PARTY COMPONENTS
+--------------------------------------------------------------------------------
+
+The Software incorporates or builds against third-party components. Those
+components remain subject to their own licence terms; nothing in this agreement
+grants or restricts any right in them beyond what those licences provide.
+
+The notices required by those licences are reproduced in THIRD-PARTY-NOTICES.md,
+which must accompany any copy of the Software.
+
+--------------------------------------------------------------------------------
+10. TERM
+--------------------------------------------------------------------------------
+
+This licence applies for as long as you use the Software.
+
+If you materially breach section 4, the Author may terminate it by written notice.
+Where the breach can be remedied, the notice will give you 14 days to do so, and
+the licence ends only if you do not. On termination you must delete all copies of
+the Software in your possession; files you authored under section 3 are not
+affected.
+
+--------------------------------------------------------------------------------
+11. UPDATES AND SUPPORT
+--------------------------------------------------------------------------------
+
+The Author is under no obligation to provide updates, new versions or support,
+and may discontinue any of them at any time. Purchasing one version does not
+entitle you to later ones.
+
+Where an update is supplied, this agreement covers it unless the update comes
+with terms of its own.
+
+This matters more here than for most software. The Software works against
+specific add-on aircraft in specific simulator versions, and an update to X-Plane
+or to an add-on can require work that is not owed under this agreement.
+
+--------------------------------------------------------------------------------
+12. SEVERABILITY
+--------------------------------------------------------------------------------
+
+If any provision of this agreement is or becomes invalid or unenforceable, the
+remaining provisions stay in force. The invalid provision is replaced by whatever
+comes closest to its intended purpose within what the law allows.
+
+--------------------------------------------------------------------------------
+13. LANGUAGE
+--------------------------------------------------------------------------------
+
+The binding version of this agreement is the English one. Translations may be
+supplied for convenience; where they differ, the English text governs, except
+where mandatory law requires otherwise.
+
+--------------------------------------------------------------------------------
+14. GOVERNING LAW AND JURISDICTION
+--------------------------------------------------------------------------------
+
+This agreement is governed by Swiss law, excluding its conflict of law rules and
+the United Nations Convention on Contracts for the International Sale of Goods.
+
+The place of jurisdiction is Unterkulm, Canton of Aargau, Switzerland, to the
+extent permitted by law.
+
+Where the Licensee is a consumer, the mandatory consumer protection law of their
+country of residence and any mandatory place of jurisdiction under it remain
+unaffected.
+
+--------------------------------------------------------------------------------
+15. CONTACT
+--------------------------------------------------------------------------------
+
+Robert Wellinger
+Irisweg 6
+CH-5726 Unterkulm
+rob.wellinger@gmail.com
